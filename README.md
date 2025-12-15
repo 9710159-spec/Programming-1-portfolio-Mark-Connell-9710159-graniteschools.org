@@ -1,7 +1,8 @@
 # Programming-1-portfolio-Mark-Connell-9710159-graniteschools.org
 
-
+space game is a fast paces 2D shooter where you must destroy asteroids for points
 https://github.com/9710159-spec/gamedevportfolio.git
+<img width="1920" height="1080" alt="501597265-97c3199f-e7a2-4916-a101-e191bf988ce7" src="https://github.com/user-attachments/assets/9bd16d54-7c15-4e4c-85a6-fd146625c5a3" />
 
 velocicart is a top down game where you have to beat your opponent in a race
 https://github.com/KBB774/Racing-TD-Game-Group-2025.git
